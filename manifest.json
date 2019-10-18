@@ -2,5 +2,8 @@
     "name": "ZincBindTools",
     "version": "0.1",
     "description": "A browser extension for linking bioinformatics websites with ZincBind",
-    "manifest_version": 2
+    "manifest_version": 2,
+    "icons": {
+        "128": "images/icon.png"
+    }
 }
