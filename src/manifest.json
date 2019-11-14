@@ -21,6 +21,9 @@
         {
             "matches": ["https://*.rcsb.org/structure/*"],
             "js": ["js/zincbindtools-rcsb.js"]
+        }, {
+            "matches": ["https://www.ebi.ac.uk/pdbe/entry/pdb/*"],
+            "js": ["js/zincbindtools-pdbe.js"]
         }
     ]
 }
