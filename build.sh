@@ -1,1 +1,1 @@
-zip -r build.zip src
+cd src && zip -r ../build.zip .
